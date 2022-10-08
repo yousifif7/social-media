@@ -8,7 +8,7 @@
 </p>
 
 
-<a href="{{url('home')}}">Home</a>
+<a href="{{url('/home')}}">Home</a>
 
 ## About Laravel
 
