@@ -8,7 +8,7 @@
 </p>
 
 
-<a href="{{route('/home')}}">Home</a>
+<a href="resources/views/index.blade.php">Home</a>
 
 ## About Laravel
 
