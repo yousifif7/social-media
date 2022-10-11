@@ -8,7 +8,7 @@
 </p>
 
 
-<a href="resources/views/index.blade.php">Home</a>
+<a href="home.blade.php">Home</a>
 
 ## About Laravel
 
